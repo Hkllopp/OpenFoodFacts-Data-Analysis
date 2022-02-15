@@ -1,0 +1,8 @@
+voila
+matplotlib
+pandas
+seaborn
+warnings
+dataframe_image
+unicode_data
+ipywidgets
